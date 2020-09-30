@@ -5,3 +5,7 @@ Thank you for downloading this script. To get started with it make sure you are 
 Feel free to make changes to this script as you need it. Please don't redistribute without permission. Instead submit a change request to this Github project so everyone can benefit.
 
 All data comes from https://splatoon2.ink/ and Splatoon content Copyright 2015 Nintendo. No copyright or trademark infringement is intended in using Splatoon content.
+
+![Large and Small widgets](https://github.com/trevormkay/splatoon-widgets/blob/master/Screenshot%201.png?raw=true)
+
+![Medium Widgets](https://github.com/trevormkay/splatoon-widgets/blob/master/Screenshot%202.png?raw=true)
